@@ -1,0 +1,92 @@
+<html>
+<head>
+           <title> Junglee staff form register now </title>
+
+<img
+src= "https://i.ibb.co/YBZgkQH/eb23d7e49e0fd8e9d5fbce64447e6869.png" width="300"
+  height = "300">
+  </head>
+  <body>
+  
+  <form>
+          <table>
+                  <tr>
+                       <td>
+                           Discord Tag :
+                        </td>
+                      <td>
+                      <input type="text" placeholder="Discord Tag" Discord tag=" ">
+                      </td>
+                      
+             <html>
+             <head>
+             <title> Junglee staff form register now </title>
+             </head>
+             <body>
+             <form>
+             <table>
+             <tr>
+             <td>
+             Your age :
+             </td>
+             <td>
+             <input type="text" placeholder="Type your age" username=" ">
+           
+            </td>
+  
+  <html>
+  <head>
+  <title> Junglee staff form register now </title>
+  </head>
+  <body>
+  <form>
+  <table>
+  <tr>
+  <td>
+  active time :
+  </td>
+  <td>
+  <input type="text" placeholder="type your active time" username=" ">
+  </td>
+  
+ <html>
+ <head>
+ <title> Junglee staff form register now </title>
+ </head>
+ <body>
+ <form>
+ <table>
+ <tr>
+ <td>
+ Will you join vc? :
+ </td>
+ <td>
+ <input type="text" placeholder="yes or no" username=" ">
+ </td>
+ 
+ <tr>
+ <td>
+ 
+ <html>
+ </head>
+ <title> You are selected put tag and get roles</title>
+ <head>
+ <body>
+ <h1> Thank you for visiting here </h1>
+ </body>
+ </html>
+ 
+ <html>
+ <tr>
+ <td>
+ Gender :
+ </td>
+ <td>
+ <input type = "radio" name="gender">Male
+ <input type = "radio" name="gender">Female
+ 
+ <tr>
+ <td>
+ <input type= "submit" value = "submit" name = " ">
+ </td>
+ </tr>
